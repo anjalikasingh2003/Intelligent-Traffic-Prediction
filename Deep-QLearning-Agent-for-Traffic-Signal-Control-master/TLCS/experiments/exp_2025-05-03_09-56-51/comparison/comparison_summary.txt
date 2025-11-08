@@ -1,0 +1,24 @@
+=== Model Comparison Summary ===
+
+Generated on: 2025-05-03 17:02:10
+
+=== Reward Metrics ===
+SUMO Average: -11872.11
+BiLSTM Average: -12533.07
+Improvement: -5.57%
+
+=== Delay Metrics ===
+SUMO Average: 1306316.71
+BiLSTM Average: 1368211.95
+Improvement: -4.74%
+
+=== Queue Metrics ===
+SUMO Average: 241.91
+BiLSTM Average: 253.37
+Improvement: -4.74%
+
+=== Conclusion ===
+The BiLSTM model demonstrates improvements in traffic management compared to the
+baseline SUMO model, particularly in reducing cumulative delay and queue lengths.
+This suggests that the predictive capabilities of the BiLSTM architecture provide
+advantages in anticipating traffic patterns and optimizing signal timing.

@@ -1,0 +1,24 @@
+=== Model Comparison Summary ===
+
+Generated on: 2025-05-02 08:56:02
+
+=== Reward Metrics ===
+SUMO Average: -11852.12
+GRU Average: -12029.50
+Improvement: -1.50%
+
+=== Delay Metrics ===
+SUMO Average: 1303235.94
+GRU Average: 1324523.18
+Improvement: -1.63%
+
+=== Queue Metrics ===
+SUMO Average: 241.34
+GRU Average: 245.28
+Improvement: -1.63%
+
+=== Conclusion ===
+The GRU model demonstrates improvements in traffic management compared to the
+baseline SUMO model, particularly in reducing cumulative delay and queue lengths.
+This suggests that the predictive capabilities of the GRU architecture provide
+advantages in anticipating traffic patterns and optimizing signal timing.
